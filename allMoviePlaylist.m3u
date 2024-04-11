@@ -55,43 +55,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031102_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410008100_Poster-v4/PSPL2021112410008100_Poster.jpg" ,Charlie’s Angels (2019)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410008100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008110_Poster-v4/PSPL2019011710008110_Poster.jpg" ,The Shallows
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021031710041101_Poster-v11/PSPL2021031710041101_Poster.jpg" ,Zack Snyder’s Justice League
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021031710041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041138_Poster-v9/PSPL2020091710041138_Poster.jpg" ,Dolphin Tale 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041138_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031120_Poster-v4/PSPL2020051910031120_Poster.jpg" ,Thor
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031120_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041108_Poster-v8/PSPL2020092510041108_Poster.jpg" ,Superman Returns
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041108_Poster-v8/PSPL2020062410041108_Poster.jpg" ,Harry Potter and the Prisoner of Azkaban
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041108_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210008105_Poster-v5/PSPL2020060210008105_Poster.jpg" ,2012
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210008105_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -100,43 +65,38 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031106_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031107_Poster-v3/PSPL2019121610031107_Poster.jpg" ,Guardians Of The Galaxy
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031107_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008103_Poster-v6/PSPL2019040910008103_Poster.jpg" ,Spider-Man: Homecoming
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008103_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021031710041101_Poster-v11/PSPL2021031710041101_Poster.jpg" ,Zack Snyder’s Justice League
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021031710041101_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410008100_Poster-v4/PSPL2021112410008100_Poster.jpg" ,Charlie’s Angels (2019)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410008100_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2018021910008102_Poster-v4/PSPL2018021910008102_Poster.jpg" ,Zombieland (2009)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2018021910008102_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012110008111_Poster-v3/PSPL2017012110008111_Poster.jpg" ,Grown Ups 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012110008111_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410040105_Poster-v4/PSPL2021112410040105_Poster.jpg" ,Home Alone
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410040105_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017021610008111_Poster-v4/PSPL2017021610008111_Poster.jpg" ,Spider Man 2 (2004)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017021610008111_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031123_Poster-v3/PSPL2020051910031123_Poster.jpg" ,Toy Story 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031123_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041111_Poster-v8/PSPL2020062410041111_Poster.jpg" ,Inception
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041111_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2012040500001254_Poster-v3/PSPL2012040500001254_Poster.jpg" ,Hitch (2005)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2012040500001254_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -145,73 +105,33 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023080210008117_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031103_Poster-v4/PSPL2020051910031103_Poster.jpg" ,Guardians Of The Galaxy
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031103_smil/i/111246.mpd
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041113_Poster-v8/PSPL2020092510041113_Poster.jpg" ,Focus
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041113_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041144_Poster-v8/PSPL2020061910041144_Poster.jpg" ,Crazy, Stupid, Love.
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041144_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2012040500001254_Poster-v3/PSPL2012040500001254_Poster.jpg" ,Hitch (2005)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2012040500001254_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031125_Poster-v3/PSPL2020051910031125_Poster.jpg" ,Zootopia
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031125_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410040105_Poster-v4/PSPL2021112410040105_Poster.jpg" ,Home Alone
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410040105_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 group-title="Musical" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112610031117_Poster-v3/PSPL2021112610031117_Poster.jpg" ,The Lion king 1994
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031117_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017020410008107_Poster-v7/PSPL2017020410008107_Poster.jpg" ,Grown Ups (2010)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017020410008107_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040104_Poster-v3/PSPL2019012410040104_Poster.jpg" ,Maze Runner: The Scorch Trials
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041109_Poster-v8/PSPL2020062410041109_Poster.jpg" ,Harry Potter and the Sorcerer's Stone
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008107_Poster-v16/PSPL2020061910008107_Poster.jpg" ,Venom (2018)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008107_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041105_Poster-v7/PSPL2020062410041105_Poster.jpg" ,Harry Potter and the Goblet of Fire
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112610031113_Poster-v3/PSPL2021112610031113_Poster.jpg" ,Ratatouille
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031101_Poster-v3/PSPL2020051810031101_Poster.jpg" ,Ant-Man
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015101600016619_Poster-v4/PSPL2015101600016619_Poster.jpg" ,Ice Age: Dawn Of The Dinosaurs
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015101600016619_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Musical" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041108_Poster-v8/PSPL2020061910041108_Poster.jpg" ,A Star Is Born
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031118_Poster-v4/PSPL2020051810031118_Poster.jpg" ,Cars
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031118_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008103_Poster-v6/PSPL2019040910008103_Poster.jpg" ,Spider-Man: Homecoming
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008103_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -225,88 +145,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041117_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008102_Poster-v5/PSPL2020061910008102_Poster.jpg" ,Searching (2018)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008102_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041113_Poster-v8/PSPL2020061910041113_Poster.jpg" ,Crazy Rich Asians
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041113_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031108_Poster-v4/PSPL2020051910031108_Poster.jpg" ,Iron Man 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031108_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061210000104_Poster-v5/PSPL2020061210000104_Poster.jpg" ,Bad Boys for Life
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061210000104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031116_Poster-v3/PSPL2020051810031116_Poster.jpg" ,Captain America: The First Avenger
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031116_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410040106_Poster-v4/PSPL2021112410040106_Poster.jpg" ,Ice Age: Continental Drift
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410040106_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016031710008104_Poster-v4/PSPL2016031710008104_Poster.jpg" ,Bad Boys (1995)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016031710008104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041118_Poster-v8/PSPL2020062410041118_Poster.jpg" ,Ocean's Twelve
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041118_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008106_Poster-v6/PSPL2020061910008106_Poster.jpg" ,Spider-Man: Into The Spider-Verse
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008106_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041112_Poster-v7/PSPL2020092410041112_Poster.jpg" ,Scooby-Doo
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041112_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031122_Poster-v4/PSPL2020051910031122_Poster.jpg" ,Thor: The Dark World
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031122_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040101_Poster-v3/PSPL2019012510040101_Poster.jpg" ,Independence Day: Resurgence
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020082610041102_Poster-v8/PSPL2020082610041102_Poster.jpg" ,Sully
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020082610041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017021610008111_Poster-v4/PSPL2017021610008111_Poster.jpg" ,Spider Man 2 (2004)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017021610008111_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031107_Poster-v4/PSPL2019121910031107_Poster.jpg" ,Pirates Of The Caribbean: Curse Of The Black Pearl
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031107_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031125_Poster-v3/PSPL2020051910031125_Poster.jpg" ,Zootopia
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031125_smil/i/111365.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -315,63 +160,28 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019052010008102_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041110_Poster-v8/PSPL2020092510041110_Poster.jpg" ,Horrible Bosses
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041110_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031118_Poster-v4/PSPL2020051810031118_Poster.jpg" ,Cars
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031118_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041113_Poster-v8/PSPL2020092510041113_Poster.jpg" ,Focus
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041113_smil/i/111246.mpd
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2014072800004671_Poster-v3/PSPL2014072800004671_Poster.jpg" ,Brave
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2014072800004671_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410040106_Poster-v4/PSPL2021112410040106_Poster.jpg" ,Ice Age: Continental Drift
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410040106_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031107_Poster-v4/PSPL2019121910031107_Poster.jpg" ,Pirates Of The Caribbean: Curse Of The Black Pearl
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031107_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041134_Poster-v8/PSPL2020062510041134_Poster.jpg" ,Sherlock Holmes
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041134_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041134_Poster-v8/PSPL2020061910041134_Poster.jpg" ,Kong: Skull Island
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041134_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410008104_Poster-v3/PSPL2021112410008104_Poster.jpg" ,Men In Black (1997)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410008104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019100910008105_Poster-v7/PSPL2019100910008105_Poster.jpg" ,Spider-Man: Far from Home
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019100910008105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031110_Poster-v4/PSPL2020051910031110_Poster.jpg" ,Marvel’s The Avengers
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031110_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031124_Poster-v3/PSPL2019120410031124_Poster.jpg" ,Moana
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031124_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031101_Poster-v3/PSPL2020051810031101_Poster.jpg" ,Ant-Man
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031101_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -380,53 +190,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041132_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012110008111_Poster-v3/PSPL2017012110008111_Poster.jpg" ,Grown Ups 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012110008111_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041118_Poster-v8/PSPL2020062410041118_Poster.jpg" ,Ocean's Twelve
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041118_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041128_Poster-v8/PSPL2020062510041128_Poster.jpg" ,Harry Potter And The Deathly Hallows Part 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016031710008106_Poster-v2/PSPL2016031710008106_Poster.jpg" ,Django Unchained
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016031710008106_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012310008121_Poster-v3/PSPL2017012310008121_Poster.jpg" ,The Amazing Spider-Man 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012310008121_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031104_Poster-v3/PSPL2019121610031104_Poster.jpg" ,Doctor Strange
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031111_Poster-v3/PSPL2020051910031111_Poster.jpg" ,Marvel’s Avengers: Age Of Ultron
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031111_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041113_Poster-v8/PSPL2020061910041113_Poster.jpg" ,Crazy Rich Asians
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041127_Poster-v8/PSPL2020062510041127_Poster.jpg" ,Harry Potter And The Chamber Of Secrets
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041127_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210008105_Poster-v5/PSPL2020060210008105_Poster.jpg" ,2012
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210008105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041103_Poster-v8/PSPL2020102110041103_Poster.jpg" ,Deep Blue Sea 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041103_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008104_Poster-v3/PSPL2019011710008104_Poster.jpg" ,Ghostbusters (2016)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008104_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -435,8 +205,238 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2013081200003083_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008104_Poster-v3/PSPL2019011710008104_Poster.jpg" ,Ghostbusters (2016)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008104_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031123_Poster-v3/PSPL2020051910031123_Poster.jpg" ,Toy Story 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031123_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041134_Poster-v8/PSPL2020062510041134_Poster.jpg" ,Sherlock Holmes
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041134_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012310008121_Poster-v3/PSPL2017012310008121_Poster.jpg" ,The Amazing Spider-Man 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012310008121_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041110_Poster-v8/PSPL2020092510041110_Poster.jpg" ,Horrible Bosses
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031116_Poster-v3/PSPL2020051810031116_Poster.jpg" ,Captain America: The First Avenger
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031116_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040101_Poster-v3/PSPL2019012510040101_Poster.jpg" ,Independence Day: Resurgence
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008110_Poster-v4/PSPL2019011710008110_Poster.jpg" ,The Shallows
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041134_Poster-v8/PSPL2020061910041134_Poster.jpg" ,Kong: Skull Island
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041134_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041111_Poster-v8/PSPL2020062410041111_Poster.jpg" ,Inception
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041111_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016031710008106_Poster-v2/PSPL2016031710008106_Poster.jpg" ,Django Unchained
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016031710008106_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041138_Poster-v9/PSPL2020091710041138_Poster.jpg" ,Dolphin Tale 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041138_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041103_Poster-v8/PSPL2020102110041103_Poster.jpg" ,Deep Blue Sea 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008107_Poster-v16/PSPL2020061910008107_Poster.jpg" ,Venom (2018)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008107_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041105_Poster-v7/PSPL2020062410041105_Poster.jpg" ,Harry Potter and the Goblet of Fire
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041105_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016031710008104_Poster-v4/PSPL2016031710008104_Poster.jpg" ,Bad Boys (1995)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016031710008104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031122_Poster-v4/PSPL2020051910031122_Poster.jpg" ,Thor: The Dark World
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031122_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015101600016619_Poster-v4/PSPL2015101600016619_Poster.jpg" ,Ice Age: Dawn Of The Dinosaurs
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015101600016619_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031124_Poster-v3/PSPL2019120410031124_Poster.jpg" ,Moana
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2018021910008102_Poster-v4/PSPL2018021910008102_Poster.jpg" ,Zombieland (2009)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2018021910008102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031108_Poster-v4/PSPL2020051910031108_Poster.jpg" ,Iron Man 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031108_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031111_Poster-v3/PSPL2020051910031111_Poster.jpg" ,Marvel’s Avengers: Age Of Ultron
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031111_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031103_Poster-v4/PSPL2020051910031103_Poster.jpg" ,Guardians Of The Galaxy
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031104_Poster-v3/PSPL2019121610031104_Poster.jpg" ,Doctor Strange
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031110_Poster-v4/PSPL2020051910031110_Poster.jpg" ,Marvel’s The Avengers
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031110_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041144_Poster-v8/PSPL2020061910041144_Poster.jpg" ,Crazy, Stupid, Love.
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041144_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031107_Poster-v3/PSPL2019121610031107_Poster.jpg" ,Guardians Of The Galaxy
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031107_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Musical" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041108_Poster-v8/PSPL2020061910041108_Poster.jpg" ,A Star Is Born
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017020410008107_Poster-v7/PSPL2017020410008107_Poster.jpg" ,Grown Ups (2010)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017020410008107_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031120_Poster-v4/PSPL2020051910031120_Poster.jpg" ,Thor
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031120_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019100910008105_Poster-v7/PSPL2019100910008105_Poster.jpg" ,Spider-Man: Far from Home
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019100910008105_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410008104_Poster-v3/PSPL2021112410008104_Poster.jpg" ,Men In Black (1997)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410008104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112610031113_Poster-v3/PSPL2021112610031113_Poster.jpg" ,Ratatouille
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061210000104_Poster-v5/PSPL2020061210000104_Poster.jpg" ,Bad Boys for Life
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061210000104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040104_Poster-v3/PSPL2019012410040104_Poster.jpg" ,Maze Runner: The Scorch Trials
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041112_Poster-v7/PSPL2020092410041112_Poster.jpg" ,Scooby-Doo
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041108_Poster-v8/PSPL2020062410041108_Poster.jpg" ,Harry Potter and the Prisoner of Azkaban
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041109_Poster-v8/PSPL2020062410041109_Poster.jpg" ,Harry Potter and the Sorcerer's Stone
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008102_Poster-v5/PSPL2020061910008102_Poster.jpg" ,Searching (2018)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041128_Poster-v8/PSPL2020062510041128_Poster.jpg" ,Harry Potter And The Deathly Hallows Part 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041108_Poster-v8/PSPL2020092510041108_Poster.jpg" ,Superman Returns
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2014072800004671_Poster-v3/PSPL2014072800004671_Poster.jpg" ,Brave
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2014072800004671_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020082610041102_Poster-v8/PSPL2020082610041102_Poster.jpg" ,Sully
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020082610041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041127_Poster-v8/PSPL2020062510041127_Poster.jpg" ,Harry Potter And The Chamber Of Secrets
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041127_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008106_Poster-v6/PSPL2020061910008106_Poster.jpg" ,Spider-Man: Into The Spider-Verse
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008106_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -490,53 +490,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2022071810008121_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041106_Poster-v8/PSPL2020062410041106_Poster.jpg" ,Harry Potter and the Half-Blood Prince
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041106_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021071410041101_Poster-v8/PSPL2021071410041101_Poster.jpg" ,Mortal Kombat
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021071410041101_smil/i/111372.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041105_Poster-v8/PSPL2020092010041105_Poster.jpg" ,Catwoman
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041144_Poster-v8/PSPL2020061910041144_Poster.jpg" ,Crazy, Stupid, Love.
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041144_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017022310008103_Poster-v14/PSPL2017022310008103_Poster.jpg" ,Total Recall (2012)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017022310008103_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041105_Poster-v7/PSPL2020062410041105_Poster.jpg" ,Harry Potter and the Goblet of Fire
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041125_Poster-v7/PSPL2020062410041125_Poster.jpg" ,Birds of Prey
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041125_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041138_Poster-v9/PSPL2020091710041138_Poster.jpg" ,Dolphin Tale 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041138_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041101_Poster-v9/PSPL2020062410041101_Poster.jpg" ,Due Date
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041112_Poster-v11/PSPL2020061910041112_Poster.jpg" ,Contagion
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041112_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021061410000100_Poster-v7/PSPL2021061410000100_Poster.jpg" ,Godzilla vs. Kong
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021061410000100_smil/i/111372.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -545,103 +500,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041108_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020111110041100_Poster-v8/PSPL2020111110041100_Poster.jpg" ,SCOOB!
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020111110041100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041110_Poster-v10/PSPL2020062410041110_Poster.jpg" ,I Am Legend
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015101600016619_Poster-v4/PSPL2015101600016619_Poster.jpg" ,Ice Age: Dawn Of The Dinosaurs
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015101600016619_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017060210041138_Poster-v8/PSPL2017060210041138_Poster.jpg" ,Storks
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017060210041138_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041109_Poster-v8/PSPL2020092510041109_Poster.jpg" ,Blood Diamond
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041114_Poster-v9/PSPL2020092110041114_Poster.jpg" ,Dumb and Dumberer: When Harry Met Lloyd
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041112_Poster-v8/PSPL2020062410041112_Poster.jpg" ,Interstellar
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041112_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021031710041101_Poster-v11/PSPL2021031710041101_Poster.jpg" ,Zack Snyder’s Justice League
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021031710041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020082610041102_Poster-v8/PSPL2020082610041102_Poster.jpg" ,Sully
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020082610041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102210041100_Poster-v6/PSPL2020102210041100_Poster.jpg" ,Everything, Everything
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102210041100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019052010008102_Poster-v20/PSPL2019052010008102_Poster.jpg" ,Blade Runner 2049
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019052010008102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017060210008137_Poster-v7/PSPL2017060210008137_Poster.jpg" ,Fantastic Beasts And Where To Find Them
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017060210008137_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041109_Poster-v8/PSPL2020062410041109_Poster.jpg" ,Harry Potter and the Sorcerer's Stone
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041113_Poster-v8/PSPL2020092510041113_Poster.jpg" ,Focus
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091510000100_Poster-v7/PSPL2020091510000100_Poster.jpg" ,Just Mercy
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091510000100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015091400016233_Poster-v4/PSPL2015091400016233_Poster.jpg" ,Little Miss Sunshine
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015091400016233_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041108_Poster-v8/PSPL2020062410041108_Poster.jpg" ,Harry Potter and the Prisoner of Azkaban
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015091400016235_Poster-v4/PSPL2015091400016235_Poster.jpg" ,Love & Other Drugs
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015091400016235_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410041103_Poster-v5/PSPL2021112410041103_Poster.jpg" ,Dolphin Tale
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410041103_smil/i/111246.mpd
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041103_Poster-v8/PSPL2020102110041103_Poster.jpg" ,Deep Blue Sea 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041103_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -650,28 +510,58 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041105_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041112_Poster-v8/PSPL2020092510041112_Poster.jpg" ,Ghost Rider: Spirit of Vengeance
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041112_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041104_Poster-v9/PSPL2020092010041104_Poster.jpg" ,Nancy Drew
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041113_Poster-v8/PSPL2020061910041113_Poster.jpg" ,Crazy Rich Asians
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102210041101_Poster-v8/PSPL2020102210041101_Poster.jpg" ,IT
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102210041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041117_Poster-v8/PSPL2020062410041117_Poster.jpg" ,Ocean's Thirteen
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041117_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041108_Poster-v8/PSPL2020062410041108_Poster.jpg" ,Harry Potter and the Prisoner of Azkaban
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041112_Poster-v8/PSPL2020062410041112_Poster.jpg" ,Interstellar
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041106_Poster-v8/PSPL2020062410041106_Poster.jpg" ,Harry Potter and the Half-Blood Prince
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041106_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017022310008103_Poster-v14/PSPL2017022310008103_Poster.jpg" ,Total Recall (2012)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017022310008103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041124_Poster-v8/PSPL2020062410041124_Poster.jpg" ,Joker
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041111_Poster-v8/PSPL2020062410041111_Poster.jpg" ,Inception
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041111_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041127_Poster-v8/PSPL2020062510041127_Poster.jpg" ,Harry Potter And The Chamber Of Secrets
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041127_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015082100016010_Poster-v4/PSPL2015082100016010_Poster.jpg" ,John Tucker Must Die
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015082100016010_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -680,8 +570,163 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041110_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041118_Poster-v9/PSPL2020092110041118_Poster.jpg" ,Happy Feet Two
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041118_smil/i/111246.mpd
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041109_Poster-v8/PSPL2020092510041109_Poster.jpg" ,Blood Diamond
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041108_Poster-v8/PSPL2020092510041108_Poster.jpg" ,Superman Returns
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041115_Poster-v8/PSPL2020062410041115_Poster.jpg" ,Me Before You
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041115_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041113_Poster-v8/PSPL2020061910041113_Poster.jpg" ,Crazy Rich Asians
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041144_Poster-v8/PSPL2020061910041144_Poster.jpg" ,Crazy, Stupid, Love.
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041144_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041105_Poster-v7/PSPL2020062410041105_Poster.jpg" ,Harry Potter and the Goblet of Fire
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041105_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019052010008102_Poster-v20/PSPL2019052010008102_Poster.jpg" ,Blade Runner 2049
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019052010008102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021071410041101_Poster-v8/PSPL2021071410041101_Poster.jpg" ,Mortal Kombat
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021071410041101_smil/i/111372.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041112_Poster-v8/PSPL2020092510041112_Poster.jpg" ,Ghost Rider: Spirit of Vengeance
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041138_Poster-v9/PSPL2020091710041138_Poster.jpg" ,Dolphin Tale 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041138_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041112_Poster-v11/PSPL2020061910041112_Poster.jpg" ,Contagion
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041112_Poster-v7/PSPL2020092410041112_Poster.jpg" ,Scooby-Doo
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041116_Poster-v8/PSPL2020092510041116_Poster.jpg" ,Horrible Bosses 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041116_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410041103_Poster-v5/PSPL2021112410041103_Poster.jpg" ,Dolphin Tale
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410041103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102210041102_Poster-v7/PSPL2020102210041102_Poster.jpg" ,A Cinderella Story: Once Upon a Song
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102210041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041104_Poster-v9/PSPL2020092010041104_Poster.jpg" ,Nancy Drew
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041125_Poster-v7/PSPL2020062410041125_Poster.jpg" ,Birds of Prey
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041125_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Kids & Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015072100015676_Poster-v4/PSPL2015072100015676_Poster.jpg" ,Ice Age
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015072100015676_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041113_Poster-v8/PSPL2020092510041113_Poster.jpg" ,Focus
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041110_Poster-v10/PSPL2020062410041110_Poster.jpg" ,I Am Legend
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041103_Poster-v9/PSPL2020090510041103_Poster.jpg" ,Father Figures
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041132_Poster-v8/PSPL2020062510041132_Poster.jpg" ,San Andreas
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041132_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041130_Poster-v8/PSPL2020062510041130_Poster.jpg" ,Rampage
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041130_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041128_Poster-v8/PSPL2020061910041128_Poster.jpg" ,Justice League
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041128_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017060210041138_Poster-v8/PSPL2017060210041138_Poster.jpg" ,Storks
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017060210041138_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041135_Poster-v8/PSPL2020062510041135_Poster.jpg" ,Sherlock Holmes: A Game Of Shadows
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041135_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020111110041100_Poster-v8/PSPL2020111110041100_Poster.jpg" ,SCOOB!
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020111110041100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041131_Poster-v8/PSPL2020062510041131_Poster.jpg" ,Ready Player One
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041131_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016030310041109_Poster-v8/PSPL2016030310041109_Poster.jpg" ,Speed Racer
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016030310041109_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -690,8 +735,153 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041114_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041112_Poster-v7/PSPL2020092410041112_Poster.jpg" ,Scooby-Doo
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041112_smil/i/111246.mpd
+#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016030410041104_Poster-v8/PSPL2016030410041104_Poster.jpg" ,Gravity
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016030410041104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021031710041101_Poster-v11/PSPL2021031710041101_Poster.jpg" ,Zack Snyder’s Justice League
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021031710041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015091400016233_Poster-v4/PSPL2015091400016233_Poster.jpg" ,Little Miss Sunshine
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015091400016233_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041134_Poster-v8/PSPL2020062510041134_Poster.jpg" ,Sherlock Holmes
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041134_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041109_Poster-v8/PSPL2020062410041109_Poster.jpg" ,Harry Potter and the Sorcerer's Stone
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041101_Poster-v8/PSPL2020102110041101_Poster.jpg" ,Ocean's Eleven
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091510000100_Poster-v7/PSPL2020091510000100_Poster.jpg" ,Just Mercy
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091510000100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041117_Poster-v7/PSPL2020092410041117_Poster.jpg" ,American Sniper
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041117_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041102_Poster-v9/PSPL2020090510041102_Poster.jpg" ,Geostorm
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041105_Poster-v8/PSPL2020092010041105_Poster.jpg" ,Catwoman
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041105_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041101_Poster-v9/PSPL2020062410041101_Poster.jpg" ,Due Date
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102210041100_Poster-v6/PSPL2020102210041100_Poster.jpg" ,Everything, Everything
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102210041100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102810041100_Poster-v7/PSPL2020102810041100_Poster.jpg" ,Happy Halloween - Scooby Doo
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102810041100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091510041101_Poster-v7/PSPL2020091510041101_Poster.jpg" ,Isn't It Romantic
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091510041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015091400016235_Poster-v4/PSPL2015091400016235_Poster.jpg" ,Love & Other Drugs
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015091400016235_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020082610041102_Poster-v8/PSPL2020082610041102_Poster.jpg" ,Sully
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020082610041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041118_Poster-v8/PSPL2020062410041118_Poster.jpg" ,Ocean's Twelve
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041118_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041127_Poster-v8/PSPL2020061910041127_Poster.jpg" ,Fantastic Beasts: The Crimes Of Grindelwald
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041127_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041110_Poster-v8/PSPL2020061910041110_Poster.jpg" ,Batman V Superman: Dawn Of Justice
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041120_Poster-v10/PSPL2020092410041120_Poster.jpg" ,Rush Hour 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041120_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041128_Poster-v8/PSPL2020062510041128_Poster.jpg" ,Harry Potter And The Deathly Hallows Part 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020101910041100_Poster-v7/PSPL2020101910041100_Poster.jpg" ,Deep Blue Sea 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020101910041100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017060210008137_Poster-v7/PSPL2017060210008137_Poster.jpg" ,Fantastic Beasts And Where To Find Them
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017060210008137_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041116_Poster-v8/PSPL2020062410041116_Poster.jpg" ,Ocean's 8
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041116_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041102_Poster-v8/PSPL2020092010041102_Poster.jpg" ,Cats & Dogs: The Revenge of Kitty Galore
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410041102_Poster-v6/PSPL2021112410041102_Poster.jpg" ,Argo
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -705,198 +895,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041134_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041133_Poster-v9/PSPL2020062510041133_Poster.jpg" ,Shazam!
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041133_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041128_Poster-v8/PSPL2020061910041128_Poster.jpg" ,Justice League
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041128_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041107_Poster-v7/PSPL2020062410041107_Poster.jpg" ,Harry Potter and the Order of the Phoenix
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041107_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Kids & Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015072100015676_Poster-v4/PSPL2015072100015676_Poster.jpg" ,Ice Age
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015072100015676_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041117_Poster-v8/PSPL2020062410041117_Poster.jpg" ,Ocean's Thirteen
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041117_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041127_Poster-v8/PSPL2020062510041127_Poster.jpg" ,Harry Potter And The Chamber Of Secrets
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041127_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041103_Poster-v9/PSPL2020090510041103_Poster.jpg" ,Father Figures
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041103_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041120_Poster-v10/PSPL2020092410041120_Poster.jpg" ,Rush Hour 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041120_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041132_Poster-v8/PSPL2020062510041132_Poster.jpg" ,San Andreas
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041132_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091510041101_Poster-v7/PSPL2020091510041101_Poster.jpg" ,Isn't It Romantic
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091510041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041116_Poster-v8/PSPL2020062410041116_Poster.jpg" ,Ocean's 8
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041116_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410041102_Poster-v6/PSPL2021112410041102_Poster.jpg" ,Argo
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092410041117_Poster-v7/PSPL2020092410041117_Poster.jpg" ,American Sniper
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041117_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041131_Poster-v8/PSPL2020062510041131_Poster.jpg" ,Ready Player One
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041131_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041102_Poster-v8/PSPL2020092010041102_Poster.jpg" ,Cats & Dogs: The Revenge of Kitty Galore
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041124_Poster-v8/PSPL2020062410041124_Poster.jpg" ,Joker
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041124_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016030310041109_Poster-v8/PSPL2016030310041109_Poster.jpg" ,Speed Racer
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016030310041109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041108_Poster-v8/PSPL2020092510041108_Poster.jpg" ,Superman Returns
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015082100016010_Poster-v4/PSPL2015082100016010_Poster.jpg" ,John Tucker Must Die
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015082100016010_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092510041116_Poster-v8/PSPL2020092510041116_Poster.jpg" ,Horrible Bosses 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092510041116_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041128_Poster-v8/PSPL2020062510041128_Poster.jpg" ,Harry Potter And The Deathly Hallows Part 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041130_Poster-v8/PSPL2020062510041130_Poster.jpg" ,Rampage
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041130_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041110_Poster-v8/PSPL2020061910041110_Poster.jpg" ,Batman V Superman: Dawn Of Justice
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041103_Poster-v8/PSPL2020102110041103_Poster.jpg" ,Deep Blue Sea 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041103_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041127_Poster-v8/PSPL2020061910041127_Poster.jpg" ,Fantastic Beasts: The Crimes Of Grindelwald
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041127_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102210041102_Poster-v7/PSPL2020102210041102_Poster.jpg" ,A Cinderella Story: Once Upon a Song
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102210041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102110041101_Poster-v8/PSPL2020102110041101_Poster.jpg" ,Ocean's Eleven
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102110041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041102_Poster-v9/PSPL2020090510041102_Poster.jpg" ,Geostorm
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020102810041100_Poster-v7/PSPL2020102810041100_Poster.jpg" ,Happy Halloween - Scooby Doo
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020102810041100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041111_Poster-v8/PSPL2020062410041111_Poster.jpg" ,Inception
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041111_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021061410000100_Poster-v7/PSPL2021061410000100_Poster.jpg" ,Godzilla vs. Kong
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021061410000100_smil/i/111372.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016030410041104_Poster-v8/PSPL2016030410041104_Poster.jpg" ,Gravity
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016030410041104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020101910041100_Poster-v7/PSPL2020101910041100_Poster.jpg" ,Deep Blue Sea 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020101910041100_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -905,33 +905,23 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008107_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041135_Poster-v8/PSPL2020062510041135_Poster.jpg" ,Sherlock Holmes: A Game Of Shadows
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041135_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041114_Poster-v9/PSPL2020092110041114_Poster.jpg" ,Dumb and Dumberer: When Harry Met Lloyd
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041114_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041115_Poster-v8/PSPL2020062410041115_Poster.jpg" ,Me Before You
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041115_smil/i/111246.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041118_Poster-v9/PSPL2020092110041118_Poster.jpg" ,Happy Feet Two
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041118_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041118_Poster-v8/PSPL2020062410041118_Poster.jpg" ,Ocean's Twelve
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041118_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041133_Poster-v9/PSPL2020062510041133_Poster.jpg" ,Shazam!
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041133_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041134_Poster-v8/PSPL2020062510041134_Poster.jpg" ,Sherlock Holmes
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041134_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023080210008117_Poster-v2/PSPL2023080210008117_Poster.jpg" ,Missing (2023)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023080210008117_smil/i/111379.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023111810041100_Poster-v2/PSPL2023111810041100_Poster.jpg" ,Barbie
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023111810041100_smil/i/111246.mpd
+#EXTINF:-1 group-title="Family" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015101600016619_Poster-v4/PSPL2015101600016619_Poster.jpg" ,Ice Age: Dawn Of The Dinosaurs
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015101600016619_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -940,8 +930,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023100610041101_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031107_Poster-v4/PSPL2019121910031107_Poster.jpg" ,Pirates Of The Caribbean: Curse Of The Black Pearl
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031107_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015090700016196_Poster-v4/PSPL2015090700016196_Poster.jpg" ,Iron Man 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015090700016196_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023080210008117_Poster-v2/PSPL2023080210008117_Poster.jpg" ,Missing (2023)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023080210008117_smil/i/111379.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -950,13 +945,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023040410008115_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210031104_Poster-v4/PSPL2020060210031104_Poster.jpg" ,Zootopia
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210031104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023062810008103_Poster-v3/PSPL2023062810008103_Poster.jpg" ,65
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023062810008103_smil/i/111372.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -965,23 +955,18 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023080910008129_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015090700016196_Poster-v4/PSPL2015090700016196_Poster.jpg" ,Iron Man 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015090700016196_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031112_Poster-v4/PSPL2020051910031112_Poster.jpg" ,Monsters, Inc. (2012 Re) - Animated
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031112_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023062810008103_Poster-v3/PSPL2023062810008103_Poster.jpg" ,65
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023062810008103_smil/i/111372.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -990,18 +975,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023050210008101_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031110_Poster-v5/PSPL2019121610031110_Poster.jpg" ,Iron Man
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031110_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023053010041100_Poster-v2/PSPL2023053010041100_Poster.jpg" ,Shazam! Fury of The Gods
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023053010041100_smil/i/111372.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031122_Poster-v4/PSPL2020051810031122_Poster.jpg" ,Doctor Strange
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031122_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023092010008104_Poster-v6/PSPL2023092010008104_Poster.jpg" ,Spider Man - Across The Spider-Verse
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023092010008104_smil/i/111372.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031107_Poster-v4/PSPL2019121910031107_Poster.jpg" ,Pirates Of The Caribbean: Curse Of The Black Pearl
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031107_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1010,13 +990,33 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031108_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023053010041100_Poster-v2/PSPL2023053010041100_Poster.jpg" ,Shazam! Fury of The Gods
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023053010041100_smil/i/111372.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031122_Poster-v4/PSPL2020051810031122_Poster.jpg" ,Doctor Strange
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031122_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210031104_Poster-v4/PSPL2020060210031104_Poster.jpg" ,Zootopia
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210031104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023092010008104_Poster-v6/PSPL2023092010008104_Poster.jpg" ,Spider Man - Across The Spider-Verse
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023092010008104_smil/i/111372.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031110_Poster-v5/PSPL2019121610031110_Poster.jpg" ,Iron Man
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2023111810041100_Poster-v2/PSPL2023111810041100_Poster.jpg" ,Barbie
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2023111810041100_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1100,13 +1100,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2014072800004671_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031122_Poster-v4/PSPL2020051910031122_Poster.jpg" ,Thor: The Dark World
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031122_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008106_Poster-v6/PSPL2020061910008106_Poster.jpg" ,Spider-Man: Into The Spider-Verse
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008106_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008103_Poster-v6/PSPL2019040910008103_Poster.jpg" ,Spider-Man: Homecoming
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008103_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1115,48 +1110,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041123_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031122_Poster-v4/PSPL2020051810031122_Poster.jpg" ,Doctor Strange
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031122_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031108_Poster-v4/PSPL2020051910031108_Poster.jpg" ,Iron Man 3
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031108_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031120_Poster-v4/PSPL2020051910031120_Poster.jpg" ,Thor
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031120_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041133_Poster-v9/PSPL2020062510041133_Poster.jpg" ,Shazam!
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041133_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041110_Poster-v8/PSPL2020061910041110_Poster.jpg" ,Batman V Superman: Dawn Of Justice
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031101_Poster-v5/PSPL2019121610031101_Poster.jpg" ,Marvel’s Avengers: Age Of Ultron
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008103_Poster-v6/PSPL2019040910008103_Poster.jpg" ,Spider-Man: Homecoming
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008103_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041128_Poster-v8/PSPL2020061910041128_Poster.jpg" ,Justice League
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041128_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1165,8 +1120,18 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031110_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041128_Poster-v8/PSPL2020061910041128_Poster.jpg" ,Justice League
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041128_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041110_Poster-v8/PSPL2020061910041110_Poster.jpg" ,Batman V Superman: Dawn Of Justice
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041133_Poster-v9/PSPL2020062510041133_Poster.jpg" ,Shazam!
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041133_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031120_Poster-v4/PSPL2020051910031120_Poster.jpg" ,Thor
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031120_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1175,18 +1140,23 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031116_smil/i/1113
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031107_Poster-v4/PSPL2020051910031107_Poster.jpg" ,Iron Man
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031107_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910041142_Poster-v8/PSPL2020061910041142_Poster.jpg" ,Aquaman
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041142_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031122_Poster-v4/PSPL2020051910031122_Poster.jpg" ,Thor: The Dark World
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031122_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031103_Poster-v4/PSPL2020051910031103_Poster.jpg" ,Guardians Of The Galaxy
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031103_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210031102_Poster-v3/PSPL2020060210031102_Poster.jpg" ,Captain America: The Winter Soldier
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210031102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1195,8 +1165,38 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008107_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031107_Poster-v4/PSPL2020051910031107_Poster.jpg" ,Iron Man
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031107_smil/i/111365.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031122_Poster-v4/PSPL2020051810031122_Poster.jpg" ,Doctor Strange
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031122_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031101_Poster-v5/PSPL2019121610031101_Poster.jpg" ,Marvel’s Avengers: Age Of Ultron
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020061910008106_Poster-v6/PSPL2020061910008106_Poster.jpg" ,Spider-Man: Into The Spider-Verse
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910008106_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031108_Poster-v4/PSPL2020051910031108_Poster.jpg" ,Iron Man 3
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031108_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051810031115_Poster-v4/PSPL2020051810031115_Poster.jpg" ,Captain America: Civil War
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031115_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041114_Poster-v8/PSPL2020062410041114_Poster.jpg" ,Man of Steel
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020060210031102_Poster-v3/PSPL2020060210031102_Poster.jpg" ,Captain America: The Winter Soldier
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020060210031102_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1205,83 +1205,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051810031101_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031124_Poster-v4/PSPL2020051910031124_Poster.jpg" ,Wall-E
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031124_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031114_Poster-v4/PSPL2019120410031114_Poster.jpg" ,Big Hero 6
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031113_Poster-v3/PSPL2019120410031113_Poster.jpg" ,Beauty And The Beast 2017
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031110_Poster-v3/PSPL2019121910031110_Poster.jpg" ,Up (2009)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031105_Poster-v3/PSPL2019121910031105_Poster.jpg" ,101 Dalmatians (1996)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041118_Poster-v9/PSPL2020092110041118_Poster.jpg" ,Happy Feet Two
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041118_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031120_Poster-v3/PSPL2019120410031120_Poster.jpg" ,Cars
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031120_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031101_Poster-v3/PSPL2020051910031101_Poster.jpg" ,Finding Dory
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031101_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031102_Poster-v4/PSPL2020051910031102_Poster.jpg" ,Frozen
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031117_Poster-v3/PSPL2019121610031117_Poster.jpg" ,The Incredibles
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031117_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1295,13 +1220,88 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031117_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031113_Poster-v3/PSPL2019120410031113_Poster.jpg" ,Beauty And The Beast 2017
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031105_Poster-v3/PSPL2019121910031105_Poster.jpg" ,101 Dalmatians (1996)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031105_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031124_Poster-v3/PSPL2019120410031124_Poster.jpg" ,Moana
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031120_Poster-v3/PSPL2019120410031120_Poster.jpg" ,Cars
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031120_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031117_Poster-v3/PSPL2019121610031117_Poster.jpg" ,The Incredibles
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031117_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031124_Poster-v4/PSPL2020051910031124_Poster.jpg" ,Wall-E
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031102_Poster-v4/PSPL2020051910031102_Poster.jpg" ,Frozen
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031114_Poster-v4/PSPL2019120410031114_Poster.jpg" ,Big Hero 6
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031110_Poster-v3/PSPL2019121910031110_Poster.jpg" ,Up (2009)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031101_Poster-v3/PSPL2020051910031101_Poster.jpg" ,Finding Dory
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031101_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1485,83 +1485,8 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031124_Poster-v4/PSPL2020051910031124_Poster.jpg" ,Wall-E
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031124_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031114_Poster-v4/PSPL2019120410031114_Poster.jpg" ,Big Hero 6
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031114_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031113_Poster-v3/PSPL2019120410031113_Poster.jpg" ,Beauty And The Beast 2017
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031113_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031110_Poster-v3/PSPL2019121910031110_Poster.jpg" ,Up (2009)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031105_Poster-v3/PSPL2019121910031105_Poster.jpg" ,101 Dalmatians (1996)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031105_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041118_Poster-v9/PSPL2020092110041118_Poster.jpg" ,Happy Feet Two
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041118_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031120_Poster-v3/PSPL2019120410031120_Poster.jpg" ,Cars
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031120_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031101_Poster-v3/PSPL2020051910031101_Poster.jpg" ,Finding Dory
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031101_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031102_Poster-v4/PSPL2020051910031102_Poster.jpg" ,Frozen
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031117_Poster-v3/PSPL2019121610031117_Poster.jpg" ,The Incredibles
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031117_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1575,13 +1500,88 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112610031117_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020080710041102_Poster-v8/PSPL2020080710041102_Poster.jpg" ,Smallfoot
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020080710041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Romance" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031113_Poster-v3/PSPL2019120410031113_Poster.jpg" ,Beauty And The Beast 2017
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041113_Poster-v8/PSPL2020062410041113_Poster.jpg" ,The Lego Ninjago Movie
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041113_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031105_Poster-v3/PSPL2019121910031105_Poster.jpg" ,101 Dalmatians (1996)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031105_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031124_Poster-v3/PSPL2019120410031124_Poster.jpg" ,Moana
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031120_Poster-v3/PSPL2019120410031120_Poster.jpg" ,Cars
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031120_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041111_Poster-v9/PSPL2020092110041111_Poster.jpg" ,Happy Feet
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041111_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031112_Poster-v4/PSPL2019121910031112_Poster.jpg" ,Wreck-It Ralph
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031112_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031117_Poster-v3/PSPL2019121610031117_Poster.jpg" ,The Incredibles
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031117_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121610031114_Poster-v4/PSPL2019121610031114_Poster.jpg" ,Pete's Dragon
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121610031114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031124_Poster-v4/PSPL2020051910031124_Poster.jpg" ,Wall-E
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031124_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031102_Poster-v4/PSPL2020051910031102_Poster.jpg" ,Frozen
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040108_Poster-v3/PSPL2019012410040108_Poster.jpg" ,Alvin and the Chipmunks
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040108_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019120410031114_Poster-v4/PSPL2019120410031114_Poster.jpg" ,Big Hero 6
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019120410031114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031110_Poster-v3/PSPL2019121910031110_Poster.jpg" ,Up (2009)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031110_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019121910031109_Poster-v3/PSPL2019121910031109_Poster.jpg" ,Toy Story 2
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019121910031109_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031101_Poster-v3/PSPL2020051910031101_Poster.jpg" ,Finding Dory
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031101_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1762,11 +1762,61 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041108_smil/i/1112
 
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041128_Poster-v8/PSPL2020062510041128_Poster.jpg" ,Harry Potter And The Deathly Hallows Part 2
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041128_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015071500015615_Poster-v3/PSPL2015071500015615_Poster.jpg" ,The Maze Runner
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015071500015615_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041110_Poster-v10/PSPL2020062410041110_Poster.jpg" ,I Am Legend
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041110_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2021112410041102_Poster-v6/PSPL2021112410041102_Poster.jpg" ,Argo
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2021112410041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031117_Poster-v3/PSPL2020051910031117_Poster.jpg" ,Pirates Of The Caribbean: On Stranger Tides
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031117_smil/i/111365.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2012082100001965_Poster-v7/PSPL2012082100001965_Poster.jpg" ,XXX: State Of The Union
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2012082100001965_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040103_Poster-v3/PSPL2019012410040103_Poster.jpg" ,Hitman: Agent 47
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040103_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041102_Poster-v9/PSPL2020090510041102_Poster.jpg" ,Geostorm
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041132_Poster-v8/PSPL2020062510041132_Poster.jpg" ,San Andreas
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041132_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019080710008101_Poster-v6/PSPL2019080710008101_Poster.jpg" ,Jumanji: Welcome To The Jungle
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019080710008101_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015041800005523_Poster-v7/PSPL2015041800005523_Poster.jpg" ,Angels & Demons
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015041800005523_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1780,63 +1830,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020061910041134_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Adventure" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019080710008101_Poster-v6/PSPL2019080710008101_Poster.jpg" ,Jumanji: Welcome To The Jungle
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019080710008101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041132_Poster-v8/PSPL2020062510041132_Poster.jpg" ,San Andreas
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041132_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031116_Poster-v4/PSPL2020051910031116_Poster.jpg" ,Pirates Of The Caribbean: Dead Man's Chest
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031116_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015041800005523_Poster-v7/PSPL2015041800005523_Poster.jpg" ,Angels & Demons
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015041800005523_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2016030310041109_Poster-v8/PSPL2016030310041109_Poster.jpg" ,Speed Racer
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2016030310041109_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2012082100001965_Poster-v7/PSPL2012082100001965_Poster.jpg" ,XXX: State Of The Union
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2012082100001965_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031117_Poster-v3/PSPL2020051910031117_Poster.jpg" ,Pirates Of The Caribbean: On Stranger Tides
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031117_smil/i/111365.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2015071500015615_Poster-v3/PSPL2015071500015615_Poster.jpg" ,The Maze Runner
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015071500015615_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041102_Poster-v9/PSPL2020090510041102_Poster.jpg" ,Geostorm
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041101_Poster-v9/PSPL2020090510041101_Poster.jpg" ,Dunkirk
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041101_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062410041110_Poster-v10/PSPL2020062410041110_Poster.jpg" ,I Am Legend
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062410041110_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040103_Poster-v3/PSPL2019012410040103_Poster.jpg" ,Hitman: Agent 47
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040103_smil/i/111246.mpd
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020051910031116_Poster-v4/PSPL2020051910031116_Poster.jpg" ,Pirates Of The Caribbean: Dead Man's Chest
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020051910031116_smil/i/111365.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1880,28 +1880,13 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2015012900005167_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040114_Poster-v3/PSPL2019012410040114_Poster.jpg" ,Far from the Madding Crowd
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040114_smil/i/111246.mpd
+#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008108_Poster-v7/PSPL2019011710008108_Poster.jpg" ,Life (2017)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008108_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040108_Poster-v3/PSPL2019012510040108_Poster.jpg" ,Ramona And Beezus
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040102_Poster-v3/PSPL2019012510040102_Poster.jpg" ,Joy
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040102_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041100_Poster-v2/PSPL2020092110041100_Poster.jpg" ,The Mule
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041100_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041131_Poster-v8/PSPL2020062510041131_Poster.jpg" ,Ready Player One
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041131_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1910,33 +1895,23 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012310008114_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008102_Poster-v6/PSPL2019040910008102_Poster.jpg" ,The Dark Tower (2017)
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041103_Poster-v9/PSPL2020090510041103_Poster.jpg" ,Father Figures
 https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041103_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012110008107_Poster-v7/PSPL2017012110008107_Poster.jpg" ,22 Jump Street
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012110008107_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040108_Poster-v3/PSPL2019012510040108_Poster.jpg" ,Ramona And Beezus
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040108_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041104_Poster-v9/PSPL2020092010041104_Poster.jpg" ,Nancy Drew
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041104_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Horror" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019011710008108_Poster-v7/PSPL2019011710008108_Poster.jpg" ,Life (2017)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019011710008108_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041102_Poster-v8/PSPL2020092010041102_Poster.jpg" ,Cats & Dogs: The Revenge of Kitty Galore
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041102_smil/i/111246.mpd
+#EXTINF:-1 group-title="Crime" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092110041100_Poster-v2/PSPL2020092110041100_Poster.jpg" ,The Mule
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092110041100_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1945,11 +1920,36 @@ https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092410041120_smil/i/1112
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019040910008102_Poster-v6/PSPL2019040910008102_Poster.jpg" ,The Dark Tower (2017)
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019040910008102_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041102_Poster-v8/PSPL2020092010041102_Poster.jpg" ,Cats & Dogs: The Revenge of Kitty Galore
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041102_smil/i/111246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020062510041131_Poster-v8/PSPL2020062510041131_Poster.jpg" ,Ready Player One
-https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020062510041131_smil/i/111246.mpd
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012510040102_Poster-v3/PSPL2019012510040102_Poster.jpg" ,Joy
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012510040102_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2019012410040114_Poster-v3/PSPL2019012410040114_Poster.jpg" ,Far from the Madding Crowd
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2019012410040114_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020091710041130_Poster-v9/PSPL2020091710041130_Poster.jpg" ,In the Heart of the Sea
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020091710041130_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020090510041104_Poster-v9/PSPL2020090510041104_Poster.jpg" ,Teen Titans Go! to the Movies
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020090510041104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Mystery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2020092010041104_Poster-v9/PSPL2020092010041104_Poster.jpg" ,Nancy Drew
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2020092010041104_smil/i/111246.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/VOD/PSPL2017012110008107_Poster-v7/PSPL2017012110008107_Poster.jpg" ,22 Jump Street
+https://delta17tatasky.akamaized.net/out/vod/v1/PSPL2017012110008107_smil/i/111246.mpd
 
